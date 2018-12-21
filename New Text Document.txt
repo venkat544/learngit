@@ -1,3 +1,6 @@
 created new file to push from local to remote git hu
 
 added this text for future changes by creating branch called calc-divide
+
+
+fast example substract
